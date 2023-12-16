@@ -1,12 +1,11 @@
 div {
-
+    padding-top: 5px;
     width: 100%;
-
     overflow: hidden;
 }
-div p{
+div h1{
     font-family : sans-serif;
-    font-size: small;
+
 
 }
 
