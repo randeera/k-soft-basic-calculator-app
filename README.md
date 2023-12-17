@@ -20,7 +20,8 @@ A basic calculator app built using HTML, CSS, JavaScript, TypeScript, and React.
 
 ## Demo
 
-[ksoft-basic-cal.webm](..%2F..%2F..%2F..%2F..%2FVideos%2FScreencasts%2Fksoft-basic-cal.webm)
+file:///home/randeera/Videos/Screencasts/ksoft-basic-cal.webm
+
 
 ![img.png](img.png)
 
