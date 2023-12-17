@@ -18,9 +18,13 @@ A basic calculator app built using HTML, CSS, JavaScript, TypeScript, and React.
 - Perform basic arithmetic operations.
 - User-friendly interface.
 
+## Hosting Link
+
+https://cosmic-starlight-d09291.netlify.app/
+
 ## Demo
 
-[ksoft-basic-cal.webm](..%2F..%2F..%2F..%2F..%2FVideos%2FScreencasts%2Fksoft-basic-cal.webm)
+https://www.youtube.com/watch?v=fym2NljznLI
 
 ![img.png](img.png)
 
